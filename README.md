@@ -56,7 +56,7 @@ Magical Pet Kingdom is an immersive and interactive game that combines stunning 
 
 ## Credits
 
-- **Developers**: [Your Name/Team Name]
+- **Developers**: [Taha Sohail]
 - **Assets**: Custom-designed and sourced from free/open-source libraries.
 - **Special Thanks**: To the SFML community for their support and resources.
 
